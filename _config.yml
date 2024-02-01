@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Yuetong Xu"
   avatar           : "WechatIMG10.jpg"
-  bio              : "I am a first year PhD at MIT ORC. My advisor is Professor Retsef Levi."
+  bio              : "Operations Research PhD Student at MIT ORC."
   location         : "Cambridge, MA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "YXRBC"
+  github           : # "YXRBC"
   google_plus      :
   keybase          :
   instagram        :
